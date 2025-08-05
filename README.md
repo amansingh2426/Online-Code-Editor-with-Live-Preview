@@ -1,35 +1,66 @@
-# React Code Editor
+# Online Code Editor with Live Preview
 
-Welcome to the React Code Editor! This is a web-based code editor built using React.js that allows users to write and run HTML, CSS, and JavaScript code.
+A web-based code editor built using React.js that allows users to write and run HTML, CSS, and JavaScript code with a real-time preview.
 
-## Features
+---
 
-✏️ Write and edit HTML, CSS, and JavaScript code in real-time.
+## ✨ Features
 
-🚀 Run and preview your code instantly in the browser.
+- ✏️ Write and edit HTML, CSS, and JavaScript in real-time
+- 🚀 Instant live preview of your code
+- 💡 Syntax highlighting for improved readability
+- 🎨 Responsive and clean UI
+- 📦 Easy to integrate into React projects
 
-💡 Syntax highlighting for code clarity.
+---
 
-📦 Easy setup and integration with React projects.
+## 🚀 Live Demo
 
-## Live Demo
+Check it out here: [https://code-editor-k5dw.onrender.com/](https://code-editor-k5dw.onrender.com/)
 
-Check out  [here](https://code-editor-k5dw.onrender.com/).
-## Getting Started
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, CodeMirror, TailwindCSS / Material UI
+- **Deployment:** Render
+
+---
+
+## 📦 Getting Started
 
 ### Prerequisites
-
-Before you begin, ensure you have the following prerequisites:
-
-- [Node.js](https://nodejs.org/) installed on your machine.
-- [npm](https://www.npmjs.com/) (Node Package Manager) or [yarn](https://yarnpkg.com/) installed.
-## Screenshots
-
-![image](https://github.com/pitabasdev/Notes-app/assets/85897297/40191dbf-fb1a-490b-9351-03575f68cda3)
+Make sure you have:
+- [Node.js](https://nodejs.org/) installed
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) installed
 
 ### Installation
 
-1. Clone this repository to your local machine:
-
+1. Clone this repository:
    ```bash
-   git clone [Github](https://github.com/pitabasdev/code-editor)https://github.com/pitabasdev/code-editor
+   git clone https://github.com/amansingh2426/online-code-editor-live-preview.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd online-code-editor-live-preview
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the development server:
+
+bash
+Copy
+Edit
+npm start
+📸 Screenshot
+(Replace this with your own screenshot later)
+
+
+👤 Author
+Aman Singh
+GitHub
