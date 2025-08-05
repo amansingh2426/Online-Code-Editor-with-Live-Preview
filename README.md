@@ -57,8 +57,7 @@ bash
 Copy
 Edit
 npm start
-📸 Screenshot
-(Replace this with your own screenshot later)
+
 
 
 👤 Author
